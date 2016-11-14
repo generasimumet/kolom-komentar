@@ -1,0 +1,5 @@
+<b:includable id='comment-form' var='post'>...</b:includable>
+              <b:includable id='commentDeleteIcon' var='comment'>...</b:includable>
+              <b:includable id='comment_count_picker' var='post'>...</b:includable>
+              <b:includable id='comment_picker' var='post'>...</b:includable>
+              <b:includable id='comments' var='post'>...</b:includable>
